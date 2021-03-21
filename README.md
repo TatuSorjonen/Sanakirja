@@ -7,3 +7,4 @@ Jos saa oikean vastauksen ohjelma kertoo sen ja jos ei saa nii ohjelma kertoo mi
 Tämä jatkuu kunnes kaikki sanat on käyty läpi.
 Käyttäjä pystyy lopettamaan testin milloin tahansa.
 Lopuksi käyttäjä voi arvioida testin.
+t
